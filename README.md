@@ -8,8 +8,4 @@ This was uploaded by a youtube channel:
 
 💡[GreatScott](https://youtube.com/@greatscottlab?si=hlbHd8CvzHosgsCy)
 -
-The  are also uploaded by: [GreatScott](https://youtube.com/@greatscottlab?si=hlbHd8CvzHosgsCy)
-
-🍎The Necessaries are all in this link:
-https://www.instructables.com/Sending-SMS-with-Arduino-TC35-GSM-Module/
--
+🍎 All the necessaries are also uploaded by: [GreatScott](https://youtube.com/@greatscottlab?si=hlbHd8CvzHosgsCy)
